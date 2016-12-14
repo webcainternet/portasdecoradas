@@ -1,13 +1,12 @@
-.htaccess
-/config.php
-admin/config.php
+public/config.php
+public/admin/config.php
 
-!index.html
+public/!index.html
 
-download/
-image/data/
-image/cache/
-system/cache/
-system/logs/
+public/download/
+public/image/data/
+public/image/cache/
+public/system/cache/
+public/system/logs/
 
-system/storage/
+public/system/storage/
